@@ -5,8 +5,11 @@ Full-Stack Software Engineer
 ----------------------------
 
 👋 Hey there! I'm Noah Morrison, a Full-Stack Software Engineer and U.S. Navy Veteran. I'm passionate about crafting user-friendly experiences through innovative tech solutions. 
+
 💻 With expertise spanning JavaScript, HTML, CSS, Node.js, Express.js, React.js, and more, I thrive on bringing concepts to life. I excel in cloud deployment using DevOps tools like CircleCI and Git, alongside database mastery in PostgreSQL and scaling strategies. 
+
 🚀 My journey includes managing aviation equipment in the U.S. Navy and an Advanced Software Engineering program. Proficient in JavaScript, React, Express, PostgreSQL, SQL, and MongoDB within Agile environments. 
+
 🔧 Beyond code, I lead teams, provide meticulous training, and ensure seamless operations. I'm deeply curious about cutting-edge tech, backed by solid Computer Science fundamentals, UI/UX design, client services, and troubleshooting skills. Let's connect! I'm all about engaging discussions or collaborating on exciting ventures. Find me on LinkedIn at linkedin.com/in/noahtmorrison or explore my projects on GitHub at github.com/leaf-mane. Looking forward to connecting! 
 
 * 🌍  I'm based in NV
